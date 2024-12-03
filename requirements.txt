@@ -1,0 +1,5 @@
+notebook
+openpyxl
+pandas
+streamlit
+pygwalker

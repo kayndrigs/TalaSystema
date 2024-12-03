@@ -1,0 +1,6 @@
+// Data Model
+digraph {
+	A [label=Sales]
+	B [label=Products]
+	A -> B [label=product_id]
+}
